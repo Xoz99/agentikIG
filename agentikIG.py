@@ -10,9 +10,9 @@ import random
 import re
 
 # ======= CONFIGURATION =======
-USERNAME = 'analis4492'
-PASSWORD = 'andrian12345'
-TARGET_PROFILE = 'smbtelkom'
+USERNAME = 'YOUR_ACCOUNT_USERNAME'
+PASSWORD = 'YOUR_ACCOUNT_PASSSWORD'
+TARGET_PROFILE = 'TARGET'
 POST_LIMIT = 5  # Number of posts to scrape
 HEADLESS_MODE = False  # Set True for no browser UI
 PROXY = None  # e.g., 'http://username:password@host:port' or None
