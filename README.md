@@ -7,3 +7,6 @@ Scraper ini digunakan untuk mengambil data dari profil Instagram secara otomatis
    pip install -r requirements.txt
 2. Jalankan:
    python agentikIG.py
+
+Noted:
+Dipastikan sudah atur akun sebelum di run
